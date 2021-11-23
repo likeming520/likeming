@@ -1,0 +1,1 @@
+.puzzle{border:1px solid #d1dbe5;position:relative;left:130px;top:350px}.puzzle__block{box-sizing:border-box;background-color:red;position:absolute;border:1px solid #fff;transition:all .3s}.picture{position:absolute;top:-300px;left:147px}.picture img{width:60%}.title{position:absolute;top:-300px;font-weight:700;border:3px solid #4e655d}
